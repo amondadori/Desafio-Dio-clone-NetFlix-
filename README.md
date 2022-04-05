@@ -1,4 +1,3 @@
-# desafio Dio GitHub
-desafio da Dio sobre GitHub
+# desafios da Dio do bootcamp do carrefur - clone NetFlix
 
-Este é eu primeiro repositorio contendo os desafios da Dio
+Nesse repositorio esta um clone da NetFlix.
